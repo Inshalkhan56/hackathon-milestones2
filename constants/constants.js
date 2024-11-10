@@ -1,67 +1,60 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = "Muhammad Inshal Khan";
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `Junior Web Developer | HTML | CSS | Javascript Experties`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Residence: "Pakistan",
+  City: "Karachi",
+  Age: "20",
 };
 
 export const SKILLS = [
   {
-    title: 'MERN Stack Developer',
-    level: '75%',
+    title: "Junior Web  Developer",
+    level: "65%",
   },
   {
-    title: 'React Developer',
-    level: '91%',
+    title: "HTML | CSS",
+    level: "81%",
   },
-  // {
-  //   title: 'Desktop Application Developer',
-  //   level: '75%',
-  // },
+
   {
-    title: 'Backend Developer',
-    level: '54%',
+    title: "Javascript Experties",
+    level: "54%",
   },
   {
-    title: 'Technical Blogger',
-    level: '83%',
+    title: "Next JS",
+    level: "42%",
   },
 ];
 
 export const TECH_STACK = [
-  'JavaScript',
-  'ReactJS',
-  'NextJS',
-  'TypeScript',
-  'NodeJS',
-  'Redux',
-  'Zustand',
-  'CSS',
-  'SCSS',
-  'TailwindCSS',
-  'Ant Design',
-  'Material UI',
-  'Next UI',
-  'REST API',
-  'MongoDB',
-  'MySQL',
-  'Git',
-  'GitHub',
-  'Jira',
-  'Figma',
-  'Adobe XD',
+  "JavaScript",
+  "ReactJS",
+  "NextJS",
+  "TypeScript",
+  "NodeJS",
+
+  "CSS",
+  "SCSS",
+  "TailwindCSS",
+  " Design",
+  "Material UI",
+  "Next UI",
+
+  "Git",
+  "GitHub",
+
+  "Figma",
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: "owais5891k@gmail.com",
+  PHONE: "+923181072956",
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: "https://github.com/Inshalkhan56",
+  LINKEDIN: "https://www.linkedin.com/in /zafeer-khan-959327316/",
+  // TWITTER: 'https://twitter.com/ijavaid',
+  FACEBOOK: "https://www.facebook.com/ayan khan",
 };

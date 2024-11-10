@@ -19,8 +19,10 @@ const Banner = () => {
                                             <Typewriter
                                                 options={{
                                                     strings:
-                                                        ['MERN Stack Developer',
-                                                            'NexJs Developer'],
+                                                        ['Web Developer',
+                                                            'Next Js Developer',
+                                                             'Java Script'
+                                                        ],
                                                     autoStart: true,
                                                     loop: true,
                                                 }}
@@ -41,22 +43,22 @@ const Banner = () => {
                 <div className="grid grid-cols-2 gap-4 md:gap-0 md:flex items-center justify-between w-full px-4 xl:px-8 2xl:px-16">
 
                     <div className="flex items-center gap-x-1">
-                        <span className='text-base md:text-lg text-Green font-bold'>10+</span>
+                        <span className='text-base md:text-lg text-Green font-bold'>2+</span>
                         <span className='text-xs text-Snow'>Completed Projects</span>
                     </div>
 
                     <div className="flex items-center gap-x-1">
-                        <span className='text-base md:text-lg text-Green font-bold'>8+</span>
+                        <span className='text-base md:text-lg text-Green font-bold'>0</span>
                         <span className='text-xs text-Snow'>Freelance Clients</span>
                     </div>
 
                     <div className="flex items-center gap-x-1">
-                        <span className='text-base md:text-lg text-Green font-bold'>5+</span>
+                        <span className='text-base md:text-lg text-Green font-bold'>1+</span>
                         <span className='text-xs text-Snow'>Honors & Awards</span>
                     </div>
 
                     <div className="flex items-center gap-x-1">
-                        <span className='text-base md:text-lg text-Green font-bold'>10+</span>
+                        <span className='text-base md:text-lg text-Green font-bold'>1+</span>
                         <span className='text-xs text-Snow'>Opensource Projects</span>
                     </div>
 

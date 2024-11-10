@@ -15,6 +15,6 @@ const BannerLayout = ({ children }) => {
             </div>
         </div>
     )
-}
+} 
 
 export default BannerLayout
